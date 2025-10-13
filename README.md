@@ -2,7 +2,7 @@
 
 FitNova Gym is a modern, responsive, and animated fitness website built to represent a premium gym brand. It’s designed to engage visitors with dynamic visuals, smooth interactions, and clear presentation of gym services, trainers, and membership options.
 
-![FitNova Gym Homepage](/fit-nova/images/Homepage.png)
+![FitNova Gym Homepage](/images/Homepage.png)
 
 
 🔥 Features
