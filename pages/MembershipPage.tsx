@@ -9,7 +9,7 @@ import { Check } from 'lucide-react';
 const PageHeader: React.FC<{ title: string; subtitle: string }> = ({ title, subtitle }) => (
   <div className="bg-dark-2 py-16 text-center">
     <motion.h1 
-      className="text-5xl font-extrabold text-primary mb-2"
+      className="text-5xl font-extrabold text-primary mb-2" 
       initial={{ opacity: 0, y: -20 }}
       animate={{ opacity: 1, y: 0 }}
       transition={{ duration: 0.6 }}
