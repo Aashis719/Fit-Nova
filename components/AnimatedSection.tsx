@@ -3,7 +3,7 @@ import { motion, Variants } from 'framer-motion';
 
 interface AnimatedSectionProps {
   children: React.ReactNode;
-  className?: string;
+  className?: string; 
   variants?: Variants;
   delay?: number;
   // FIX: Add id prop to allow setting an id on the section for anchor links.
