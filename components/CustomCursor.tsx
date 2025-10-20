@@ -8,7 +8,7 @@ const CustomCursor = () => {
   useEffect(() => {
     const move = (e) => {
       setPosition({ x: e.clientX, y: e.clientY });
-    };
+    }; 
 
     const handleMouseOver = (e) => {
       if (e.target.closest("a, button")) setHovering(true);
