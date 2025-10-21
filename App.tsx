@@ -12,7 +12,7 @@ import { AnimatePresence } from 'framer-motion';
 import CustomCursor from './components/CustomCursor';
 
 // A helper component to scroll to the top of the page on route change
-const ScrollToTop = () => {
+const ScrollToTop = () => { 
   const { pathname } = useLocation();
 
   useEffect(() => {
