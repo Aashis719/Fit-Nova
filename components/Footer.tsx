@@ -3,7 +3,7 @@ import React from 'react';
 import { NavLink } from 'react-router-dom';
 import { Dumbbell, Twitter, Instagram, Facebook } from 'lucide-react';
 import { NAV_LINKS } from '../constants';
-
+ 
 const Footer: React.FC = () => {
   return (
     <footer className="bg-dark-2 border-t border-gray-800">
