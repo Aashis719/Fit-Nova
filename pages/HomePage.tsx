@@ -5,7 +5,7 @@ import AnimatedSection from '../components/AnimatedSection';
 import { PROGRAMS, TRAINERS, TESTIMONIALS } from '../constants';
 import { motion, AnimatePresence } from 'framer-motion';
 import { ArrowRight, MoveRight, Star } from 'lucide-react';
-import type { Program, Trainer, Testimonial } from '../types';
+import type { Program, Trainer, Testimonial } from '../types'; 
 
 // Sub-components defined outside the main component to prevent re-renders
 const Hero: React.FC = () => (
