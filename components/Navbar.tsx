@@ -17,7 +17,7 @@ const Navbar: React.FC = () => {
   const mobileMenuItemVariants = {
     hidden: { opacity: 0, y: -10 },
     visible: { opacity: 1, y: 0 },
-  };
+  }; 
 
   return (
     <nav className="bg-dark/80 backdrop-blur-sm sticky top-0 z-50 w-full py-4 px-4 md:px-8 lg:px-16 shadow-lg shadow-black/20">
