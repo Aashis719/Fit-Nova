@@ -15,7 +15,7 @@ const Footer: React.FC = () => {
               <span>FitNova</span>
             </NavLink>
             <p className="text-gray-400">Unlock your power. Transform your body. Join the revolution.</p>
-          </div>
+          </div> 
           
           <div>
             <h3 className="font-bold text-lg mb-4 text-light">Quick Links</h3>
