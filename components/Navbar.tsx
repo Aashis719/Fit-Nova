@@ -6,7 +6,7 @@ import { Dumbbell, Menu, X } from 'lucide-react';
 import { motion, AnimatePresence } from 'framer-motion';
 
 const Navbar: React.FC = () => {
-  const [isOpen, setIsOpen] = useState(false);
+  const [isOpen, setIsOpen] = useState(false); 
 
   const mobileMenuVariants = {
     hidden: { opacity: 0, y: -20 },
