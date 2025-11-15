@@ -9,7 +9,7 @@ export const NAV_LINKS: NavLink[] = [
   { label: 'Membership', href: '/membership' },
   { label: 'Contact', href: '/contact' },
 ];
-
+ 
 export const PROGRAMS: Program[] = [
   { title: 'Strength Training', description: 'Build muscle and increase your power with our state-of-the-art weightlifting equipment and expert guidance.', icon: Dumbbell },
   { title: 'Cardio Blast', description: 'Improve your endurance and burn calories with high-intensity interval training and a variety of cardio machines.', icon: HeartPulse },
