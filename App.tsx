@@ -7,7 +7,7 @@ import HomePage from './pages/HomePage';
 import ClassesPage from './pages/ClassesPage';
 import TrainersPage from './pages/TrainersPage';
 import MembershipPage from './pages/MembershipPage';
-import ContactPage from './pages/ContactPage';
+import ContactPage from './pages/ContactPage'; 
 import { AnimatePresence } from 'framer-motion';
 import CustomCursor from './components/CustomCursor';
 
